@@ -1,0 +1,193 @@
+nav ul {
+  list-style: none;
+  padding:0;
+  margin: 0;
+  font-family: Helvetica;
+  font-size: 20px;
+}
+nav {
+  background-color: #214580;
+  color: #fff;
+}
+nav a {
+  padding: 30px;
+  text-decoration: none;
+  color: #fff;
+}
+nav li {
+    display: inline-block;
+    padding:0;
+    margin:0;
+    padding:10px 20px;
+}
+head {
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+  display: inline-block;
+}
+.floatbox {
+  float: left;
+}
+.footer {
+  height: 170px;
+  width: 100%;
+  background-color: #ecf0f1;
+  position: relative;
+  margin: auto;
+  font-family: Helvetica;
+}
+.footer h4 {
+  padding-left: 40px;
+}
+.footer ul li {
+  list-style: none;
+}
+.footer a {
+  color: #363636;
+}
+.foot {
+  color: #363636;
+  padding: 10px;
+  width: 12%;
+}
+.icon {
+  max-width: 40px;
+}
+.fill {
+  width: 35%;
+}
+.about {
+  width: 100%;
+  height: 520px;
+  background-color: #fff;
+  position: relative;
+  margin: auto;
+  padding: 10px;
+}
+.aboutleft {
+  width: 30%;
+  height: 100%;
+  color: #214580;
+  padding-top: 10px;
+  padding-left: 80px;
+}
+.aboutright {
+  width: 60%;
+  height: 100%;
+  text-align: center;
+  padding-left: 20px;
+}
+.about a {
+  color: #214580;
+}
+.edwrap {
+  width: 100%;
+  height: 550px;
+  background-image: url('../Photos/EducationBackground.jpg');
+  position: relative;
+  margin: auto;
+  padding: 10px;
+}
+.wraporange {
+  width: 100%;
+  height: 275px;
+  background-color: #ee7c45;
+  color: #fff;
+  position: relative;
+  margin: auto;
+}
+.wrapwhite {
+  width: 100%;
+  height: 275px;
+  background-color: #fff;
+  color: #214580;
+  position: relative;
+  margin: auto;
+}
+.wrapblue {
+  width: 100%;
+  height: 275px;
+  background-color: #789edd;
+  color: #000;
+  position: relative;
+  margin: auto;
+}
+.practice {
+  width: 15%;
+}
+.practice2 {
+  width: 8%;
+  padding: 10px;
+  color: #000;
+}
+.practice3 {
+  width: 20%;
+}
+.smallbox {
+  height: 200px;
+  width: 200px;
+  padding-left: 50px;
+  padding-top: 40px;
+}
+.left {
+  width: 25%;
+  height: 100%;
+  padding-left: 248px;
+}
+.center {
+  width: 25%;
+  height: 100%;
+}
+.right {
+  width: 25%;
+  height: 100%;
+}
+.first {
+  width: 100%;
+  height: 500px;
+  background-image: url('../Photos/Brick.jpg');
+  position: relative;
+  margin: auto;
+}
+.homebox {
+  max-height: 500px;
+}
+.izquierda {
+  width: 35%;
+  padding-left: 80px;
+}
+.centro {
+  width: 30%;
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 20px;
+}
+.centro ul {
+  padding-top: 35px;
+  letter-spacing: 2px;
+}
+.derecha {
+  width: 15%;
+  padding-top: 40px;
+  padding-left: 80px;
+  color: #fff;
+}
+.phillybox {
+  max-height: 295px;
+  max-width: 390px;
+  padding-top: 10px;
+}
+.gradbox {
+  max-height: 200px;
+}
+.edwrap h1 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 65px;
+}
+.edwrap h2 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 32px;
+}
